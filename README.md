@@ -117,7 +117,7 @@ This project is helping me learn:
 
 ## 👩🏻‍💻 Author
 
-**Ambika (Mika) 🌙**
+**Ambika🌙**
 
 Building projects one step at a time and documenting my journey publicly.
 
