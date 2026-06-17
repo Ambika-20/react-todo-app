@@ -1,16 +1,126 @@
-# React + Vite
+=======
+# 📝 React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### My first React project built while learning React, Git & GitHub
 
-Currently, two official plugins are available:
+A clean and simple Todo application to practice React fundamentals and build a strong development workflow.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* ➕ Add new tasks
+* 📋 Display all tasks
+* ✅ Mark tasks as completed
+* 🗑️ Delete tasks
+* 💾 Save tasks locally *(coming soon)*
+* 🎨 Improve UI *(coming soon)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+| Technology | Purpose              |
+| ---------- | -------------------- |
+| React      | Frontend library     |
+| Vite       | Build tool           |
+| JavaScript | Programming language |
+| HTML       | Structure            |
+| CSS        | Styling              |
+| Git        | Version control      |
+| GitHub     | Repository hosting   |
+
+---
+
+## 📂 Project Structure
+
+```text
+todo-app/
+│
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── assets/
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/<your-username>/react-todo-app.git
+```
+
+Go into the project:
+
+```bash
+cd react-todo-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open:
+
+```text
+http://localhost:5173
+```
+
+---
+
+## 🎯 Learning Goals
+
+This project is helping me learn:
+
+* React Components
+* React State
+* Event Handling
+* Conditional Rendering
+* Git & GitHub workflow
+* Project structuring
+
+---
+
+## 🗺️ Roadmap
+
+* [x] Project setup
+* [ ] Create input field
+* [ ] Add task functionality
+* [ ] Display task list
+* [ ] Delete task
+* [ ] Mark task as completed
+* [ ] Persist data using Local Storage
+* [ ] Improve UI
+
+---
+
+## 📸 Project Preview
+
+*(Screenshot will be added after building the UI.)*
+
+---
+
+## 👩🏻‍💻 Author
+
+**Ambika🌙**
+
+Building projects one step at a time and documenting my journey publicly.
+
+⭐ If you like this project, feel free to star the repository.
+>>>>>>> 4103acade3e84c3b2208550b7b43478f2d2d3abf
