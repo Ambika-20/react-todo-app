@@ -1,4 +1,3 @@
-=======
 # 📝 React Todo App
 
 ### My first React project built while learning React, Git & GitHub
@@ -123,4 +122,3 @@ This project is helping me learn:
 Building projects one step at a time and documenting my journey publicly.
 
 ⭐ If you like this project, feel free to star the repository.
->>>>>>> 4103acade3e84c3b2208550b7b43478f2d2d3abf
